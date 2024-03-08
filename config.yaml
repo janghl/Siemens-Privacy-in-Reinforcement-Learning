@@ -1,0 +1,18 @@
+# market: SLD_FCST
+market: SLD_REN_FCST
+
+
+# market_run_id: ACTUAL
+# market_run_id: DAM
+# market_run_id: RTM
+# market_run_id: RTD
+market_run_id: RTPD
+
+
+execution_type: null
+# execution_type: RTD
+# execution_type: RTPD
+
+zone_id: NP15
+# zone_id: SP15
+# zone_id: ZP26
