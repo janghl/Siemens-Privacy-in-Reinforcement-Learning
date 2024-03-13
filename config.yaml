@@ -1,9 +1,36 @@
 TAC_AREA_NAME: CA ISO-TAC
 execution_type: null
 forecast_type: SLD_FCST
-market_run_id: DAM
+market_run_id: ACTUAL
+minus_visualize:
+- - ACTUAL
+  - null
+  - RTM
+  - RTPD
+- - DAM
+  - null
+  - ACTUAL
+  - null
+- - RTM
+  - RTPD
+  - RTM
+  - RTD
+- - RTM
+  - RTPD
+  - ACTUAL
+  - null
+- - RTM
+  - RTD
+  - ACTUAL
+  - null
 training_set_end: 2024-01-20
 training_set_start: 2024-01-01
 validation_set_end: 2024-01-30
 validation_set_start: 2024-01-21
+visualize_id:
+  ACTUAL: []
+  DAM: []
+  RTM:
+  - RTD
+  - RTPD
 zone_id: NP15
