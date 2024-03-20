@@ -1,0 +1,40 @@
+RENEWABLE_TYPE: Solar
+TAC_AREA_NAME: CA ISO-TAC
+execution_type: null
+forecast_type: SLD_REN_FCST
+market_run_id: ACTUAL
+minus_visualize:
+- - DAM
+  - null
+  - RTPD
+  - null
+- - DAM
+  - null
+  - ACTUAL
+  - null
+- - RTPD
+  - null
+  - RTD
+  - null
+- - RTPD
+  - null
+  - ACTUAL
+  - null
+- - RTD
+  - null
+  - ACTUAL
+  - null
+- - RTPD
+  - null
+  - ACTUAL
+  - null
+training_set_end: 2024-01-20
+training_set_start: 2024-01-01
+validation_set_end: 2024-01-30
+validation_set_start: 2024-01-21
+visualize_id:
+  ACTUAL: []
+  DAM: []
+  RTD: []
+  RTPD: []
+zone_id: NP15
