@@ -1,8 +1,8 @@
 TAC_AREA_NAME: CA ISO-TAC
 end_time: 20230801T08:00-0000
-execution_type: RTPD
+execution_type: null
 forecast_type: SLD_FCST
-market_run_id: RTM
+market_run_id: ACTUAL
 minus_visualize:
 - - DAM
   - null
