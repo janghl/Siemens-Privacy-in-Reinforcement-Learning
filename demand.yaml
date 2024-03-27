@@ -1,7 +1,8 @@
 TAC_AREA_NAME: CA ISO-TAC
-execution_type: null
+end_time: 20230801T08:00-0000
+execution_type: RTPD
 forecast_type: SLD_FCST
-market_run_id: ACTUAL
+market_run_id: RTM
 minus_visualize:
 - - DAM
   - null
@@ -27,10 +28,11 @@ minus_visualize:
   - RTPD
   - ACTUAL
   - null
-training_set_end: 2024-01-20
-training_set_start: 2024-01-01
-validation_set_end: 2024-01-30
-validation_set_start: 2024-01-21
+start_time: 20230101T08:00-0000
+training_set_end: 2023-07-01
+training_set_start: 2023-01-01
+validation_set_end: 2023-08-01
+validation_set_start: 2023-07-01
 visualize_id:
   ACTUAL: []
   DAM: []

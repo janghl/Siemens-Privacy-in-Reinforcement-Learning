@@ -28,10 +28,12 @@ minus_visualize:
   - null
   - ACTUAL
   - null
-training_set_end: 2024-01-20
-training_set_start: 2024-01-01
-validation_set_end: 2024-01-30
-validation_set_start: 2024-01-21
+start_time: 20230101T08:00-0000
+end_time: 20230801T08:00-0000
+training_set_end: 2023-07-01
+training_set_start: 2023-01-01
+validation_set_end: 2023-08-01
+validation_set_start: 2023-07-01
 visualize_id:
   ACTUAL: []
   DAM: []
